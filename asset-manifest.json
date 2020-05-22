@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RoboMates/static/css/main.c9f1d309.chunk.css",
+    "main.js": "/RoboMates/static/js/main.541dc803.chunk.js",
+    "main.js.map": "/RoboMates/static/js/main.541dc803.chunk.js.map",
+    "runtime-main.js": "/RoboMates/static/js/runtime-main.52419b05.js",
+    "runtime-main.js.map": "/RoboMates/static/js/runtime-main.52419b05.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/RoboMates/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.8f99e9e4.chunk.js": "/RoboMates/static/js/2.8f99e9e4.chunk.js",
+    "static/js/2.8f99e9e4.chunk.js.map": "/RoboMates/static/js/2.8f99e9e4.chunk.js.map",
+    "index.html": "/RoboMates/index.html",
+    "precache-manifest.06c813e4c6ba753fbe2e0b94f1f119e8.js": "/RoboMates/precache-manifest.06c813e4c6ba753fbe2e0b94f1f119e8.js",
+    "service-worker.js": "/RoboMates/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/RoboMates/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.c9f1d309.chunk.css.map": "/RoboMates/static/css/main.c9f1d309.chunk.css.map",
+    "static/js/2.8f99e9e4.chunk.js.LICENSE.txt": "/RoboMates/static/js/2.8f99e9e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboMates/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52419b05.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.8f99e9e4.chunk.js",
+    "static/css/main.c9f1d309.chunk.css",
+    "static/js/main.541dc803.chunk.js"
+  ]
+}
